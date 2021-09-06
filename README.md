@@ -6,14 +6,14 @@
 REtoken DAO aims to:
 1. Become recognized as “The Real Estate DAO”
 2. Create a recurring multilingual educational virtual summit that will be delivered for free
-3. Develop a 3-tiered Fractionalized Real Estate certificate program that provide CEUs; and
+3. Develop a 3-tiered Fractionalized Real Estate certificate program that provide CEUs (Continuing Education Unit); and
 4. Become the most prominent and globally recognized Real Estate Tokenization / Security Token brand.
 
 # Founding Principles
 * Community Owned and Operated
 * Full transparency
 * Best Practices: Find, Implement, and Refine
-* We will be intentional about developing win / win / win projects (Triple Win | @3winDAO)
+* We will be intentional about developing win / win / win projects
 
 # REtoken DAO | Season 0 / 1
 
@@ -29,11 +29,11 @@ When $RETOKEN becomes listed on a DEX (UniSwap, SushiSwap, HoneySwap, Acala, etc
 # Governance Process
 
 ## Board of Stewards
-The community has agreed to “roadmap” implementing a Board of Stewards (BoS).  We anticipate that this process will occur within Season 0 with the expectation that the BoS will initiate efforts and planning migration into Season 1.
+The community has agreed to “roadmap” implementing a [Board of Stewards (BoS) (see write up on SporkDAO)](https://forum.sporkdao.org/t/sporkdao-board-of-stewards-role/53). We anticipate that this process will occur within Season 0 with the expectation that the BoS will initiate efforts and planning migration into Season 1.
 
 Discord Post / Poll ⇒ https://discord.com/channels/877883581903564860/882910920240680970/883801541230858241
 
-The Board of Stewards primary responsibility is to help the DAO operate smoothly and efficiently so that REtoken DAO will be a catalyst for disrupting the Real Estate industry with Blockchain Technology.
+The Board of Stewards' primary responsibility is to help the DAO operate smoothly and efficiently so that REtoken DAO will be a catalyst for disrupting the Real Estate industry with Blockchain Technology.
 
 ## Initial Voting / Proposal Process
 1. Discussion origination ... here on discord (Working Groups, Community Calls, etc)
